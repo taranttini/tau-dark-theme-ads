@@ -1,18 +1,21 @@
 # Tau Dark Theme - For Azure Data Studio
 
-A theme based on Monokai to changes
+A theme modified from Monokai
 
 ## Installation
 
 Clone or Copy this repository and save this folder on:
 
-[windows]
+***windows***
+
 C:\Users\__USER_NAME__\AppData\Local\Programs\Azure Data Studio\resources\app\extensions
+
+CTRL+SHIFT+P -> Preferences: Color Theme -> Tau Dark
 
 [need_put_here_on_store]
 
 ### Dark
-
+```
          normal    dark   light
 RED     #f58287 #d8726c #e7a8ab
 YELLOW  #ffcf7d #e0b064 #eedda4
@@ -22,6 +25,5 @@ BLUE    #56cce8 #59adba #78dbef
 WHITE   #eeeeee #d2c8be #e2f3f3
 BLACK   #212733 #2e2929 #536871
 TEXT    #a0adc9 #9494a1 #acc6d9
-
-![Sample]
-(screen.png)
+```
+![Sample](https://github.com/taranttini/tau-dark-theme-ads/blob/master/screen.png)
