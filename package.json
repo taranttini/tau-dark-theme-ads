@@ -1,0 +1,19 @@
+{
+	"name": "theme-tau-dark",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"version": "1.0.0",
+	"publisher": "taranttini",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Tau Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/tau-dark-color-theme.json"
+			}
+		]
+	}
+}
