@@ -1,7 +1,7 @@
 # Tau Dark
 ## This is the README for my extension "tau-dark"
 This is my Azure Data Studio/Visual Studio Code color theme for SQL
-[]
+
 
 |color|normal|dark|light|
 |-|-|-|-|
