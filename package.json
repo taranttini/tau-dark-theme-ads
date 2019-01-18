@@ -1,19 +1,23 @@
 {
-	"name": "theme-tau-dark",
-	"displayName": "%displayName%",
-	"description": "%description%",
-	"version": "1.0.0",
-	"publisher": "taranttini",
-	"engines": {
-		"vscode": "*"
-	},
-	"contributes": {
-		"themes": [
-			{
-				"label": "Tau Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/tau-dark-color-theme.json"
-			}
-		]
-	}
+    "name": "tau-dark",
+    "displayName": "Tau Dark",
+    "description": "Tau Dark",
+    "version": "0.0.1",
+    "publisher": "taranttini",
+    "engines": {
+        "vscode": "^1.30.0",
+        "sqlops": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tau Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tau-dark-color-theme.json"
+            }
+        ]
+    }
 }
