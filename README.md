@@ -14,9 +14,9 @@ This is my Azure Data Studio/Visual Studio Code color theme.
 |black|#212733|#2e2929|#536871|
 |text|#a0adc9|#9494a1|#acc6d9|
 
-> **Install** 
+> **Install from vsix** 
 
-[from vsix](tau-dark-0.0.1.vsix)
+[tau-dark-0.0.1.vsix](tau-dark-0.0.1.vsix)
 
 > **Install windows**
 copy or clone to 
